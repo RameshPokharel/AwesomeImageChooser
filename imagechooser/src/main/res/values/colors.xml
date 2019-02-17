@@ -23,4 +23,8 @@
     <color name="bar_grey_90">#dd393a3e</color>
     <color name="color_4d">#4d4d4d</color>
     <color name="color_orange">#E0FF6100</color>
+    <color name="picture_list_text_color">#E0DBDBDB</color>
+    <color name="picture_preview_text_color">#E0DBDBDB</color>
+
+
 </resources>

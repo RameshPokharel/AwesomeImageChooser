@@ -11,6 +11,10 @@
             android:theme="@style/AppTheme">
         <activity android:name=".ImageActivity">
         </activity>
+        <activity
+                android:theme="@style/picture.default.style"
+                android:name=".PictureSelectorActivity">
+        </activity>
     </application>
 
 </manifest>

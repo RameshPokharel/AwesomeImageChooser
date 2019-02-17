@@ -26,6 +26,7 @@
     <string name="picture_save_success">Save picture successfully until</string>
     <string name="picture_error">The picture is corrupted</string>
     <string name="picture_confirm">Cancel</string>
+    <string name="picture_record_video">picture_record_video</string>
     <string name="picture_message_video_max_num">You can choose%1$s videos at most</string>
 </resources>
 
